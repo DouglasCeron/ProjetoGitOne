@@ -1,4 +1,4 @@
 Primeiro Texto Alterado do Arquivo
 Segundo Texto Alterado do Arquivo 
-Terceiro Texto do Arquivo
+Terceiro Texto Alterado do Arquivo
 Quarto Texto do Arquivo
